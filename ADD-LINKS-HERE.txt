@@ -10,3 +10,19 @@ link = link
 },
 
 
+
+
+
+
+// Here if unrelated to javascript
+topic = name of the link
+link = link
+
+{
+    topic:'Example',
+    link:'https://example.com'    
+},
+
+
+
+
