@@ -4,10 +4,10 @@ MAKE SURE THE LINK STARTS WITH https:// or http://
 topic = name of the link
 link = link
 
-{
-    topic:'Example',
-    link:'https://example.com'    
-},
+    {
+        "topic":"Example",
+        "link":"https://example.com"
+    },
 
 
 
@@ -18,10 +18,10 @@ link = link
 topic = name of the link
 link = link
 
-{
-    topic:'Example',
-    link:'https://example.com'    
-},
+    {
+        "topic":"Example",
+        "link":"https://example.com"
+    },
 
 
 

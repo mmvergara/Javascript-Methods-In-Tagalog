@@ -1,9 +1,5 @@
 [
     {
-        "topic":"Example",
-        "link":"https://example.com/"
-    },
-    {
         "topic":"Array",
         "link":"https://dev.to/mmvergara/javascript-tagalog-arrays-4haj"
     },
@@ -34,5 +30,9 @@
     {
         "topic":"Nullish Coalescing Operator",
         "link":"https://dev.to/mmvergara/javascript-tagalog-nullish-coalescing-operator-1gkl"
+    },
+    {
+        "topic":"Example",
+        "link":"https://example.com/"
     }
 ]
