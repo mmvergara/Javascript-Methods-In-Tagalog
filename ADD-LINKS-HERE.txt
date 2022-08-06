@@ -5,12 +5,9 @@ topic = name of the link
 link = link
 
     {
-        "topic":"Example",
-        "link":"https://example.com"
+        topic:"Example",
+        link:"https://example.com"
     },
-
-
-
 
 
 
@@ -19,8 +16,8 @@ topic = name of the link
 link = link
 
     {
-        "topic":"Example",
-        "link":"https://example.com"
+        topic:"Example",
+        link:"https://example.com"
     },
 
 
