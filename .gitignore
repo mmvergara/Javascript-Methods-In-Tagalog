@@ -5,9 +5,9 @@
 /.pnp
 .pnp.js
 /.vscode
-/build
-/public
-/src
+
+
+
 # testing
 /coverage
 
