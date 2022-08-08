@@ -3,4 +3,4 @@ Collection of Learning Resources for Bits and Pieces of Javascript written in Ta
 Made By: Vergara Mark Matthew
 
 # Website Link 🌟
-https://app.netlify.com/sites/javascript-in-tagalog/overview
+https://Javascript-In-Tagalog.netlify.app/
