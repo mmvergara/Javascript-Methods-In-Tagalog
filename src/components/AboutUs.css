@@ -1,0 +1,48 @@
+.aboutMainContainer {
+    color:white;
+}
+.aboutJSinTagalog{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction:column;
+    text-align:center;
+    margin-top:2em;
+    gap:1em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.authorContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+.authorImg{
+    background-color: rgb(3, 46, 44);
+    border-radius:8px;
+    padding: 1em;
+}
+.authorText{
+    padding: 1em;
+    border: 3px solid rgb(3, 46, 44);
+    border-radius:8px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+.authorText svg{
+    width: 45px;
+    margin: 20px;
+    padding: 0.2em .4em;
+    border-radius:7px;
+    background-color: rgb(70, 125, 122);
+
+}
+.aboutJSinTagalog svg{
+    width: 45px;
+    margin: 0px 0px 20px 0px;
+    padding: 0.2em .4em;
+    border-radius:7px;
+    background-color: rgb(107, 125, 70);
+}

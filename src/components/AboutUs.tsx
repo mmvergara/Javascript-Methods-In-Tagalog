@@ -1,4 +1,6 @@
-import Author from '../Author.png'
+
+import './AboutUs.css'
+
 export default function AboutUs() {
 
 
@@ -18,7 +20,7 @@ export default function AboutUs() {
             </article>
             <article className="authorContainer">
                 <div className="authorImg">
-                   <img src={Author} alt="Javscript in Tagalog Author" width={320}/>
+                   <img src="/Author.png" alt="Javscript in Tagalog Author" width={320}/>
                 </div>  
                 <div className="authorText">
                     <p>Rare Picture of the Author during the Development Process</p>
