@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
-
+*{
+    box-sizing: border-box;
+}
 .logo_search_Container {
     margin-top: 4em;
     display: flex;
@@ -81,6 +83,35 @@
     font-weight:bold;
 }
 
+
+
+.HeadJs-in-Tg{
+    display: inline;
+    background-color: yellow;
+    color: black;
+    border-radius: 7px;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .aboutJSinTagalog{
     display:flex;
     justify-content:center;
@@ -91,21 +122,11 @@
     gap:1em;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
-
-}
-.HeadJs-in-Tg{
-    display: inline;
-    background-color: yellow;
-    color: black;
-    border-radius: 7px;
-    padding: 10px;
-    font-weight: bolder;
 }
 .authorContainer{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-
     gap: 1em;
 }
 .authorImg{
