@@ -12,6 +12,13 @@
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
 }
+.aboutJSinTagalog p{
+    max-width: 600px;
+}
+
+.disclaimer span{
+    color:rgb(255, 0, 0)
+}
 
 .authorContainer{
     display: flex;

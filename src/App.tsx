@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import AboutUs from './components/AboutUs';
 import Footer from './components/Footer';
-import HomeUI from './components/HomeUID';
+import HomeUI from './components/HomeUI';
 import './App.css';
 
 function App() {

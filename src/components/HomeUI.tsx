@@ -1,31 +1,20 @@
-import { useEffect, useState } from 'react';
-import uniqid from 'uniqid';
+import { useState } from 'react';
 import Links from '../Links-JS'
+import HyperLinks from './HyperLinks';
 import './HomeUI.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import uniqid from 'uniqid'
+
+
 
 export default function HomeUI() {
-    function sortTheLink(linkArr:any){
-        return linkArr.sort((a:any,b:any)=>{return a.topic[0] < b.topic[0] ? -1 : a.topic[0] > b.topic[0] ? 1:0})
-    }
-    let rawLinks = sortTheLink(Links)
-    const [userINP,setUserINP] = useState('')
-    const [linksDisplay,setLinkDisplay] = useState('')
-
-    interface T {
+    interface JSLinks {
+        topic:string,
         link:string,
-        topic:string
     }
-
-    useEffect(()=>{
-        const LinksFiltered = rawLinks.filter((l:T) =>{ return l.topic.toLowerCase().includes(userINP.toLowerCase()) }) // Filter
-        setLinkDisplay(LinksFiltered.map( (x:T) =>
-                            <div key={uniqid()}>
-                                <a className='hyperLinks' href={x.link} target='_blank' rel="noreferrer"> {x.topic}  </a> 
-                            </div>
-                        ))
-    },[userINP,rawLinks])
-    
+    const sortedLinks = Links.sort((a:JSLinks,b:JSLinks)=>{return a.topic[0] < b.topic[0] ? -1 : a.topic[0] > b.topic[0] ? 1:0})
+    const [userINP,setUserINP] = useState('')
+    const [linksDisplaying,setLinkDisplaying] = useState(sortedLinks.filter((l:JSLinks) =>{ return l.topic.toLowerCase().includes(userINP.toLowerCase()) }))
     return (
         <div className="HomeUI">
             <article className="logo_search_Container">
@@ -33,12 +22,16 @@ export default function HomeUI() {
                     <h1>Javascript In Tagalog </h1>
                 </div>
                 <div className='searchContainer'> 
-                    <input onChange={(e)=>{setUserINP(e.target.value)}} type="text" className="form-control bg-dark text-white  inputSearch" placeholder='Anong gusto mong matutunan?'/> 
+                    <input onChange={(e)=>{
+                        setUserINP(e.target.value);
+                        setLinkDisplaying(sortedLinks.filter((l:any) =>{ return l.topic.toLowerCase().includes(userINP.toLowerCase()) }));
+                    }}
+                     type="text" className="form-control bg-dark text-white  inputSearch" placeholder='Anong gusto mong matutunan?'/> 
                 </div>
             </article>
             <div className="allLinksContainer">
                 <div className="jsLinks-Container">
-                    {linksDisplay}
+                    {linksDisplaying.map((links)=>{ return <HyperLinks key={uniqid()} TnL={links}/>})}
                 </div>
             </div>
         </div>
