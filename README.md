@@ -4,11 +4,13 @@ https://Javascript-In-Tagalog.netlify.app/
 Startedby: Vergara Mark Matthew
 
 Contributors
--
+- xxx
 
 # Want to add your own learning resources? 🌟
-- open a Pull request or [issue](https://github.com/mmvergara/Javascript-In-Tagalog/issues)
+- open a Pull request (on ADD-LINKS-HERE.txt) or [issue](https://github.com/mmvergara/Javascript-In-Tagalog/issues)
 - req. written in tagalog or taglish + free
+
+# Updates:
 
 Aug 13, 2022
 - Added Break Statement 
