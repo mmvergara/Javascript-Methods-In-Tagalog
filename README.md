@@ -7,25 +7,25 @@ Contributors
 - xxx
 
 # Want to add your own learning resources? 🌟
-- open a Pull request (on ADD-LINKS-HERE.txt) or [issue](https://github.com/mmvergara/Javascript-In-Tagalog/issues)
-- req. written in tagalog or taglish + free
+- Open up a Pull request (on ADD-LINKS-HERE.txt) or [issue](https://github.com/mmvergara/Javascript-In-Tagalog/issues)
+- Req. written in tagalog or taglish + free
 
 # Updates:
 
 Aug 13, 2022
-- Added Break Statement 
+- Added Break Statement -mmvergara
 
 Aug 6, 2022
-- Added Nullish Coalescing Operator
+- Added Nullish Coalescing Operator -mmvergara
 
 Aug 5, 2022
-- Added Arrow Function
-- Added Const Variable Declaration
-- Added Let Variable
-- Added Optional Chaining
-- Added Ternary Operator
+- Added Arrow Function -mmvergara
+- Added Const Variable Declaration -mmvergara
+- Added Let Variable -mmvergara
+- Added Optional Chaining -mmvergara
+- Added Ternary Operator -mmvergara
 
 Aug 4, 2022
-- Added Temporal Dead Zone (TDZ)
-- Added Arrays
+- Added Temporal Dead Zone (TDZ) -mmvergara
+- Added Arrays -mmvergara
 
