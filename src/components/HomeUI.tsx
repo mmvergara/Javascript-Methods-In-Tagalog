@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import Links from '../Links-JS'
 import HyperLinks from './HyperLinks';
 import './HomeUI.css'
@@ -15,6 +15,9 @@ export default function HomeUI() {
     const sortedLinks = Links.sort((a:JSLinks,b:JSLinks)=>{return a.topic[0] < b.topic[0] ? -1 : a.topic[0] > b.topic[0] ? 1:0})
     const [userINP,setUserINP] = useState('')
     const [linksDisplaying,setLinkDisplaying] = useState(sortedLinks.filter((l:JSLinks) =>{ return l.topic.toLowerCase().includes(userINP.toLowerCase()) }))
+    useEffect(()=>{
+        setLinkDisplaying(sortedLinks.filter((l:any) =>{ return l.topic.toLowerCase().includes(userINP.toLowerCase()) }));
+    },[userINP,sortedLinks])
     return (
         <div className="HomeUI">
             <article className="logo_search_Container">
@@ -24,7 +27,6 @@ export default function HomeUI() {
                 <div className='searchContainer'> 
                     <input onChange={(e)=>{
                         setUserINP(e.target.value);
-                        setLinkDisplaying(sortedLinks.filter((l:any) =>{ return l.topic.toLowerCase().includes(userINP.toLowerCase()) }));
                     }}
                      type="text" className="form-control bg-dark text-white  inputSearch" placeholder='Anong gusto mong matutunan?'/> 
                 </div>
