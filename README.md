@@ -11,6 +11,11 @@ Contributors
 - Req. written in tagalog or taglish + free
 
 # Updates:
+Aug 14, 2022
+- Added Strings - mmvergara
+- Added Boolean - mmvergara
+- Added Null - mmvergara
+- Added Undefined - mmvergara
 
 Aug 13, 2022
 - Added Break Statement -mmvergara

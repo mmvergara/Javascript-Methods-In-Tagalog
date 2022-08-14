@@ -48,10 +48,35 @@ const Links = [
         author:'MMVergara'
     },
     {
-        id:8,
+        id:9,
         topic:'Break Statement',
         link:'https://dev.to/mmvergara/javascript-tagalog-break-statement-1ghc',
         author:'MMVergara'
+    },
+    
+    {
+		id:10,
+        topic:"Undefined",
+        link:"https://dev.to/mmvergara/javascript-tagalog-undefined-44ic",
+        author:"MMVergara"
+    },
+    {
+		id:11,
+        topic:"Null",
+        link:"https://dev.to/mmvergara/javascript-tagalog-null-4mo3",
+        author:"MMVergara"
+    },
+    {
+		id:12,
+        topic:"Boolean",
+        link:"https://dev.to/mmvergara/javascript-tagalog-boolean-4i5k",
+        author:"MMVergara"
+    },
+    {
+		id:13,
+        topic:"Strings",
+        link:"https://dev.to/mmvergara/javascript-tagalog-strings-2ee0",
+        author:"MMVergara"
     },
     
 ]
