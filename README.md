@@ -1,7 +1,7 @@
 # Javascript-in-tagalog 🌟
-Collection of Learning Resources for Bits and Pieces of Javascript written in Tagalog
-https://Javascript-In-Tagalog.netlify.app/
-Startedby: Vergara Mark Matthew
+Collection of Learning Resources for Bits and Pieces of Javascript written in Tagalog <br/>
+https://Javascript-In-Tagalog.netlify.app/ since 
+Startedby: Vergara, Mark Matthew / August 7, 2022
 
 Contributors
 - xxx
