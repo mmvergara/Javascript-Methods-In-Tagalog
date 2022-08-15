@@ -58,24 +58,36 @@ const Links = [
 		id:10,
         topic:"Undefined",
         link:"https://dev.to/mmvergara/javascript-tagalog-undefined-44ic",
-        author:"MMVergara"
+        author:"MMVergara",
     },
     {
 		id:11,
         topic:"Null",
         link:"https://dev.to/mmvergara/javascript-tagalog-null-4mo3",
-        author:"MMVergara"
+        author:"MMVergara",
     },
     {
 		id:12,
         topic:"Boolean",
         link:"https://dev.to/mmvergara/javascript-tagalog-boolean-4i5k",
-        author:"MMVergara"
+        author:"MMVergara",
     },
     {
 		id:13,
         topic:"Strings",
         link:"https://dev.to/mmvergara/javascript-tagalog-strings-2ee0",
+        author:"MMVergara",
+    },
+    {
+		id:'alert-1',
+        topic:"Alert",
+        link:"https://dev.to/mmvergara/javascript-tagalog-alert-5a98",
+        author:"MMVergara",
+    },
+    {
+		id:'forof-1',
+        topic:"",
+        link:"https://dev.to/mmvergara/javascript-tagalog-for-of-loop-1898",
         author:"MMVergara"
     },
     
