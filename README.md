@@ -11,6 +11,13 @@ Contributors
 - Req. written in tagalog or taglish + free
 
 # Updates:
+
+Aug 15, 2022
+- Added Alert - mmvergara
+- Added For of Loop - mmvergara
+- Added Equality - mmvergara
+- Added Strict Equality - mmvergara
+
 Aug 14, 2022
 - Added Strings - mmvergara
 - Added Boolean - mmvergara
