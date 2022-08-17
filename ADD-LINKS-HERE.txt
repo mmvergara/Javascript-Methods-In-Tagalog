@@ -1,5 +1,5 @@
 Follow This format
-MAKE SURE THE LINK STARTS WITH https:// or http://
+ **MAKE SURE THE LINK STARTS WITH https:// or http://
 
 topic = name of the link
 link = link
@@ -18,7 +18,7 @@ topic = name of the link
 link = link
 
     {
-        id:"topicName-1"
+        id:"topic-name-1"
         topic:"Example",
         link:"https://example.com",
         author:"authorName",
