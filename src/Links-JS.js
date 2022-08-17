@@ -101,6 +101,18 @@ const Links = [
         link:"https://dev.to/mmvergara/javascript-tagalog-equality-strict-equality-2med",
         author:"MMVergara",
     },
+    {	
+		id:"fn-decl-1",
+        topic:"Function Declaration",
+        link:"https://dev.to/mmvergara/javascript-tagalog-function-declaration-43ng",
+        author:"MMVergara",
+    },
+    {	
+		id:"fn-expr-1",
+        topic:"Function Expression",
+        link:"https://dev.to/mmvergara/javascript-tagalog-function-expression-4969",
+        author:"MMVergara",
+    },
     
 ]
 export default Links;
