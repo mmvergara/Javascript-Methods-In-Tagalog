@@ -7,6 +7,8 @@
 }
 .hyperLinks:hover{
   color: #58a6ff;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
 }
 
 .navContainer{
