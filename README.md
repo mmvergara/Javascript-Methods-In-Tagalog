@@ -12,6 +12,9 @@ Contributors
 - Req. written in tagalog or taglish + free
 
 # Updates:
+Aug 17, 2022
+- Added Function Declaration - mmvergara
+- Added Function Expresion - mmvergara
 
 Aug 15, 2022
 - Added Alert - mmvergara
