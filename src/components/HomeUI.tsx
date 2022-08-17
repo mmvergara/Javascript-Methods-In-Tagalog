@@ -9,15 +9,21 @@ import uniqid from 'uniqid'
 
 export default function HomeUI() {
     interface JSLinks {
+        id:string,
         topic:string,
         link:string,
+        author:string,
     }
+    // Sort The links
     const sortedLinks = Links.sort((a:JSLinks,b:JSLinks)=>{return a.topic[0] < b.topic[0] ? -1 : a.topic[0] > b.topic[0] ? 1:0})
+
+    // Search logic
     const [userINP,setUserINP] = useState('')
     const [linksDisplaying,setLinkDisplaying] = useState(sortedLinks.filter((l:JSLinks) =>{ return l.topic.toLowerCase().includes(userINP.toLowerCase()) }))
     useEffect(()=>{
         setLinkDisplaying(sortedLinks.filter((l:any) =>{ return l.topic.toLowerCase().includes(userINP.toLowerCase()) }));
     },[userINP,sortedLinks])
+
     return (
         <div className="HomeUI">
             <article className="logo_search_Container">
