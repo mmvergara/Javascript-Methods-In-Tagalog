@@ -1,11 +1,13 @@
 .footerContainer{
-    margin-top: 800px;
-    color: white;
-    background-color: rgba(33, 37, 2, 0.294);
     display: flex;
     justify-content: center;
     align-items:center;
     flex-direction:column;
-    font-weight: normal;
+
+    background-color: rgba(33, 37, 2, 0.294);
+    color: white;
+    
+    margin-top: 800px;
     padding: 1em 0em;
+    font-weight: normal;
 }
