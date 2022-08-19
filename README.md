@@ -12,6 +12,12 @@ Contributors
 - Req. written in tagalog or taglish + free
 
 # Updates:
+Aug 20, 2022
+- Added startsWith - String Method - mmvergara
+- Added endsWith - String Method - mmvergara
+- Added padStart - String Method - mmvergara
+- Added padEnd - String Method - mmvergara
+
 Aug 19, 2022
 - Added Push - Array Method - mmvergara
 - Added Pop - Array Method - mmvergara
