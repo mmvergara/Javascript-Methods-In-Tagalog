@@ -85,7 +85,7 @@ const Links = [
     },
     {
 		id:'forof-1',
-        topic:"",
+        topic:"for of loop",
         link:"https://dev.to/mmvergara/javascript-tagalog-for-of-loop-1898",
         author:"MMVergara",
     },
@@ -113,6 +113,41 @@ const Links = [
         link:"https://dev.to/mmvergara/javascript-tagalog-function-expression-4969",
         author:"MMVergara",
     },
-    
+    {	
+		id:"pop-arr-method-1",
+        topic:"pop - Array Method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-array-pop-method-16bh",
+        author:"MMVergara",
+    },
+    {	
+		id:"push-arr-method-1",
+        topic:"Push - Array Method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-array-push-method-296",
+        author:"MMVergara",
+    },
+    {	
+		id:"reverse-arr-method-1",
+        topic:"Reverse - Array Method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-array-reverse-method-4bi8",
+        author:"MMVergara",
+    },
+    {	
+		id:"shift-arr-method-1",
+        topic:"Shift - Array method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-array-shift-method-5bnl",
+        author:"MMVergara",
+    },
+    {	
+		id:"unshift-arr-method-1",
+        topic:"Unshift - Array Method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-array-unshift-method-3ogg",
+        author:"MMVergara",
+    },
+    {	
+		id:"concat-arr-method-1",
+        topic:"Concat - Array Method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-concat-array-method-1m49",
+        author:"MMVergara",
+    },
 ]
 export default Links;
