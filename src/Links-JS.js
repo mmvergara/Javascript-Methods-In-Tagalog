@@ -133,7 +133,7 @@ const Links = [
     },
     {	
 		id:"shift-arr-method-1",
-        topic:"Shift - Array method",
+        topic:"Shift - Array Method",
         link:"https://dev.to/mmvergara/javascript-tagalog-array-shift-method-5bnl",
         author:"MMVergara",
     },
