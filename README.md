@@ -12,6 +12,14 @@ Contributors
 - Req. written in tagalog or taglish + free
 
 # Updates:
+Aug 19, 2022
+- Added Push - Array Method - mmvergara
+- Added Pop - Array Method - mmvergara
+- Added Reverse - Array Method - mmvergara
+- Added Shift - Array Method - mmvergara
+- Added Unshift - Array Method - mmvergara
+- Added Concat - Array Method - mmvergara
+
 Aug 17, 2022
 - Added Function Declaration - mmvergara
 - Added Function Expresion - mmvergara
