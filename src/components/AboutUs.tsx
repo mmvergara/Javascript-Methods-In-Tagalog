@@ -22,7 +22,7 @@ export default function AboutUs() {
                    <img src="/Author.png" alt="Javscript in Tagalog Author" width={320}/>
                 </div>  
                 <div className="authorText">
-                    <p>Rare Picture during the Development Process</p>
+                    <p>Rare Formal Picture during the Development Process</p>
                     <p>Email: Mark.jesusmanabat@gmail.com</p>       
                     <a href="https://www.linkedin.com/in/mark-vergara-8436b0243/" target="_blank" rel="noreferrer">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">

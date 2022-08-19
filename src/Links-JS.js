@@ -149,5 +149,30 @@ const Links = [
         link:"https://dev.to/mmvergara/javascript-tagalog-concat-array-method-1m49",
         author:"MMVergara",
     },
+    {	
+		id:"startswith-str-method-1",
+        topic:"startsWith - String Method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-string-startswith-method-1ipj",
+        author:"MMVergara",
+    },
+    {	
+		id:"endswith-str-method-1",
+        topic:"endsWith - String Method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-string-endswith-method-4eel",
+        author:"MMVergara",
+    },
+    {	
+		id:"padstart-str-method-1",
+        topic:"padStart - String Method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-string-padstart-method-jpn",
+        author:"MMVergara",
+    },
+    {	
+		id:"padend-str-method-1",
+        topic:"padEnd - String Method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-string-padend-method-4ki4",
+        author:"MMVergara",
+    },
+
 ]
 export default Links;
