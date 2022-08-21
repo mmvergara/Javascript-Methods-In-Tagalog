@@ -12,6 +12,13 @@ Contributors
 - Req. written in tagalog or taglish + free
 
 # Updates:
+Aug 22, 2022
+- Added charAt - String Method - mmvergara
+
+Aug 21, 2022
+- Added indexOf - String Method - mmvergara
+- Added includes - String Method - mmvergara
+
 Aug 20, 2022
 - Added startsWith - String Method - mmvergara
 - Added endsWith - String Method - mmvergara
