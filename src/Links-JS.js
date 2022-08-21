@@ -173,6 +173,23 @@ const Links = [
         link:"https://dev.to/mmvergara/javascript-tagalog-string-padend-method-4ki4",
         author:"MMVergara",
     },
-
+    {	
+		id:"includes-str-method",
+        topic:"includes - String Method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-string-includes-method-4lb6",
+        author:"MMVergara",
+    },
+    {	
+		id:"indexof-str-method",
+        topic:"indexOf - String Method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-string-indexof-method-5elp",
+        author:"MMVergara",
+    },
+    {	
+		id:"charat-str-method",
+        topic:"charAt - String Method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-string-charat-method-5367",
+        author:"MMVergara",
+    },
 ]
 export default Links;
