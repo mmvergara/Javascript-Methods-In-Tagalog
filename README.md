@@ -12,6 +12,13 @@ Contributors
 - Req. written in tagalog or taglish + free
 
 # Updates:
+
+Aug 23, 2022
+- Added trim - String Method - mmvergara
+- Added trimEnd - String Method - mmvergara
+- Added trimStart - String Method - mmvergara
+
+
 Aug 22, 2022
 - Added charAt - String Method - mmvergara
 

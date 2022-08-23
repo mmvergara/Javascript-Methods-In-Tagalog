@@ -191,5 +191,23 @@ const Links = [
         link:"https://dev.to/mmvergara/javascript-tagalog-string-charat-method-5367",
         author:"MMVergara",
     },
+    {	
+		id:"trim-str-method-1",
+        topic:"trim - String Method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-string-trim-method-pe",
+        author:"MMVergara",
+    },
+    {	
+		id:"trimend-str-method-1",
+        topic:"trimStart - String Method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-string-trimstart-method-272f",
+        author:"MMVergara",
+    },
+    {	
+		id:"trimstart-str-method-1",
+        topic:"trimEnd - String Method",
+        link:"https://dev.to/mmvergara/javascript-tagalog-string-trimend-method-bln",
+        author:"MMVergara",
+    },
 ]
 export default Links;
