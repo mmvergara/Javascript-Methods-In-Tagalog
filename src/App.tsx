@@ -6,15 +6,17 @@ import './App.css';
 
 function App() {
   const [sHomeUI,setHomeUI] = useState(true)
-
+  const sHomeToggleHandler = ()=>{
+    setHomeUI((prev)=>!prev)
+  }
   return (
     <div className="App">
       <header className='navContainer'>
         <div>
-          <a href="#/" onClick={()=>{setHomeUI(!sHomeUI)}} className='hyperLinks'>{sHomeUI ? ">About Us" : ">Home"}</a>
+          <a href="#/" onClick={sHomeToggleHandler} className='hyperLinks'>{sHomeUI ? ">About Us" : ">Home"}</a>
         </div>
       </header>
-      {sHomeUI ? <HomeUI/> : <AboutUs/>}
+      {sHomeUI ? <HomeUI onToggle={sHomeToggleHandler} /> : <AboutUs/>}
       <Footer/>
     </div>
   );

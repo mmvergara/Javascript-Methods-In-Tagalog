@@ -9,8 +9,8 @@
     text-align:center;
     margin-top:2em;
     gap:1em;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
+    font-size:1.2rem;
+    font-weight: 500;
 }
 .aboutJSinTagalog p{
     max-width: 600px;

@@ -61,3 +61,11 @@
     font-size: 1.2rem;
     text-align:center;
 }
+
+.noteAut{
+    text-align: center;
+    color:rgb(104, 66, 66);
+    font-weight: bold;
+    cursor:pointer;
+    text-decoration:underline;
+}
