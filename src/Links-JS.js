@@ -209,5 +209,35 @@ const Links = [
         link:"https://dev.to/mmvergara/javascript-tagalog-string-trimend-method-bln",
         author:"MMVergara",
     },
+    {	
+		id:"trunc-math-1",
+        topic:"Math.trunc - JS Math",
+        link:"https://dev.to/mmvergara/javascript-tagalog-mathtrunc-nib",
+        author:"MMVergara",
+    },
+    {	
+		id:"ceil-math-1",
+        topic:"Math.ceil - JS Math",
+        link:"https://dev.to/mmvergara/javascript-tagalog-mathceil-38i4",
+        author:"MMVergara",
+    },
+    {	
+		id:"max-math-1",
+        topic:"Math.max - JS Math",
+        link:"https://dev.to/mmvergara/javascript-tagalog-mathmax-53ak",
+        author:"MMVergara",
+    },
+    {	
+		id:"min-math-1",
+        topic:"Math.min - JS Math",
+        link:"https://dev.to/mmvergara/javascript-tagalog-mathmin-23a0",
+        author:"MMVergara",
+    },
+    {	
+		id:"pi-math-1",
+        topic:"Math.PI - JS Math",
+        link:"https://dev.to/mmvergara/javascript-tagalog-mathpi-13gc",
+        author:"MMVergara",
+    },
 ]
 export default Links;

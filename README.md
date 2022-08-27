@@ -5,13 +5,20 @@ Since : August 7, 2022 <br/>
 Startedby: Vergara, Mark Matthew <br/>
 
 Contributors
-- xxx
+- mmvergara
 
 # Want to add your own learning resources? 🌟
 - Open up a Pull request (on ADD-LINKS-HERE.txt) or [issue](https://github.com/mmvergara/Javascript-In-Tagalog/issues)
 - Req. written in tagalog or taglish + free
 
 # Updates:
+
+Aug 27, 2022
+- Added Math.PI - JS Math - mmvergara
+- Added Math.min - JS Math - mmvergara
+- Added Math.max - JS Math - mmvergara
+- Added Math.trunc - JS Math - mmvergara
+- Added Math.ceil - JS Math - mmvergara
 
 Aug 23, 2022
 - Added trim - String Method - mmvergara
