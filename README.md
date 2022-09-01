@@ -12,6 +12,8 @@ Contributors
 - Req. written in tagalog or taglish + free
 
 # Updates:
+Sep 1, 2022
+- Added Math.sqrt - JS Math - mmvergara
 
 Aug 27, 2022
 - Added Math.PI - JS Math - mmvergara

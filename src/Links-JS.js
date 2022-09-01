@@ -239,5 +239,11 @@ const Links = [
         link:"https://dev.to/mmvergara/javascript-tagalog-mathpi-13gc",
         author:"MMVergara",
     },
+    {
+        id:"sqrt-math-1",
+        topic:"Math.sqrt - JS Math",
+        link:"https://dev.to/mmvergara/javascript-tagalog-mathsqrt-59mk",
+        author:"MMVergara",
+    },
 ]
 export default Links;
