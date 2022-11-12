@@ -1,0 +1,46 @@
+
+:root {
+  --ifm-color-primary: #b9bf18;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-footer-background-color: red;
+
+}
+
+[data-theme="dark"] {
+  --ifm-color-primary: #b9bf18;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-background-color: #202e41;
+  --ifm-background-surface-color: #5e2626;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-card-background-color: #161b22;
+  --ifm-footer-background-color: #161b22;
+  background-color: #0d1117;
+}
+
+html[data-theme="dark"] footer {
+  background-color: #161b22;
+}
+
+html[data-theme="dark"] .theme-doc-footer-edit-meta-row {
+  background-color: #0d1117;
+}
+html[data-theme="dark"] .navbar--fixed-top {
+  background-color: #161b22;
+}
+
+
+
+img[alt=techIcon] { width: 30px; }
+img[alt=firebaseBig] { width: 30px; }
