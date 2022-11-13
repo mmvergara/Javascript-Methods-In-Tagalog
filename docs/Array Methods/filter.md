@@ -3,7 +3,7 @@
 ## Pagpapaliwanag
 i fi-filter ang array base sa isang `condition`
 
-Return Value - Shallow Copy ng array
+Return Value - [Shallow Copy](https://developer.mozilla.org/en-US/docs/Glossary/Shallow_copy) ng array
 ```javascript
 const x = [1, 2, 3, -4, -5, -6];
 const negativeNumbers = x.filter((num) => { return num < 0 });

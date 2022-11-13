@@ -1,7 +1,7 @@
 # pop
 
 ## Pagpapaliwanag
-Aalisin niya yung huling element ng isang array tapos yung return value niya kapag ini-store mo yung sa variable.
+Aalisin niya yung huling element ng isang array tapos yun ang return value niya kapag ini-store mo yun sa variable.
 
 ```javascript
 const x = [1, 2, 3, 4, "Huling Element"];
