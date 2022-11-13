@@ -11,8 +11,12 @@ Contributors
 
 # Updates:
 
-November 12, 2022
+November 13, 2022
+- Migrated Website to vercel hosting
+- Updated Array.concat()
+- Added indexOf, join, reverse, shift, unshift, concat.
 
+November 12, 2022
 - Changed from "Javascript in Tagalog" to "Javascript Methods in Tagalog"
 - Started using Docusaurus for the website
 
