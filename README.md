@@ -10,6 +10,8 @@ Contributors
 - mmvergara
 
 # Updates:
+November 14, 2022
+- Added Math sqrt and trunc
 
 November 13, 2022
 - Migrated Website to vercel hosting
