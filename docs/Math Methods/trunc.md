@@ -1,7 +1,7 @@
 # trunc
 
 ## Pagpapaliwanag
-Math Function siya na basta aalisin niyalang yung mga decimal places na number.
+Aalisin niyalang yung mga decimal places sa number.
 - also i ta-try ni js na i convert ang mga binigay na value as a number if hindi number data-type yung binigay
 
 ```javascript

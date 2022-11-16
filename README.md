@@ -10,6 +10,9 @@ Contributors
 - mmvergara
 
 # Updates:
+November 15, 2022
+- Added Math min and max
+
 November 14, 2022
 - Added Math sqrt and trunc
 
