@@ -16,11 +16,10 @@ console.log( Math.min(...y) )
 console.log( Math.min(...x) )
 ```
 
-NaN kapag nag tinry mo mag pass ng hindi number or any na hindi pwede maconvert as a number
+`NaN` kapag nag tinry mo mag pass ng hindi number or any na hindi pwede maconvert as a number
 
 ```javascript
-console.log(Math.trunc()); // NaN
-console.log(Math.trunc({})); // NaN
+console.log(Math.min({})); // NaN
 ```
 
 ## Iba pang resources

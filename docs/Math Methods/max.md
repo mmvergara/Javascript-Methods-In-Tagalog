@@ -16,11 +16,10 @@ console.log(Math.max(...y)); // 4
 console.log(Math.max(...x)); // 3
 ```
 
-NaN kapag nag tinry mo mag pass ng hindi number or any na hindi pwede maconvert as a number
+`NaN` kapag nag tinry mo mag pass ng hindi number or any na hindi pwede maconvert as a number
 
 ```javascript
-console.log(Math.trunc()); // NaN
-console.log(Math.trunc({})); // NaN
+console.log(Math.max({})); // NaN
 ```
 
 ## Iba pang resources

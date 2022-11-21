@@ -12,6 +12,12 @@ console.log( Math.sqrt('16') ) // 4
 console.log( Math.sqrt(4) ) // 2
 
 console.log( Math.sqrt(1) ) // 1 
+
+```
+`NaN` kapag nag tinry mo mag pass ng hindi number or any na hindi pwede maconvert as a number
+
+```javascript
+console.log(Math.min({})); // NaN
 ```
 
 ## Iba pang resources

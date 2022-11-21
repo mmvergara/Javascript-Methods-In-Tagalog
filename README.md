@@ -1,7 +1,7 @@
 # Javascript-Methods-in-tagalog 🌟
 
-Collection of Learning Resources for Bits and Pieces of Javascript written in Tagalog / Taglish <br/>
-https://Javascript-Methods-in-Tagalog.netlify.app/ <br/>
+Collection of Javascript methods written in Tagalog / Taglish <br/>
+https://javascript-methods-in-tagalog.vercel.app/ <br/>
 Since : August 7, 2022 <br/>
 Startedby: Vergara, Mark Matthew <br/>
 
@@ -10,18 +10,27 @@ Contributors
 - mmvergara
 
 # Updates:
+
+November 21, 2022
+
+- Added Math pow, random, round, pi, ceil and abs `- mmvergara`
+
 November 15, 2022
-- Added Math min and max
+
+- Added Math min and max `- mmvergara`
 
 November 14, 2022
-- Added Math sqrt and trunc
+
+- Added Math sqrt and trunc `- mmvergara`
 
 November 13, 2022
+
 - Migrated Website to vercel hosting
 - Updated Array.concat()
-- Added indexOf, join, reverse, shift, unshift, concat.
+- Added indexOf, join, reverse, shift, unshift, concat. `- mmvergara`
 
 November 12, 2022
+
 - Changed from "Javascript in Tagalog" to "Javascript Methods in Tagalog"
 - Started using Docusaurus for the website
 
