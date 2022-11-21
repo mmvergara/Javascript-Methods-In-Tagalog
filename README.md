@@ -5,29 +5,32 @@ https://javascript-methods-in-tagalog.vercel.app/ <br/>
 Since : August 7, 2022 <br/>
 Startedby: Vergara, Mark Matthew <br/>
 
-Contributors
+**Contributors**
 
-- mmvergara
+- [mmvergara](https://github.com/mmvergara/)
 
 # Updates:
 
+November 22, 2022
+- Added find,findIndex,findLast,findLastindex,foreach,indexOf and at `mmvergara`
+
 November 21, 2022
 
-- Added Math pow, random, round, pi, ceil and abs `- mmvergara`
+- Added Math pow, random, round, pi, ceil and abs `mmvergara`
 
 November 15, 2022
 
-- Added Math min and max `- mmvergara`
+- Added Math min and max `mmvergara`
 
 November 14, 2022
 
-- Added Math sqrt and trunc `- mmvergara`
+- Added Math sqrt and trunc `mmvergara`
 
 November 13, 2022
 
 - Migrated Website to vercel hosting
 - Updated Array.concat()
-- Added indexOf, join, reverse, shift, unshift, concat. `- mmvergara`
+- Added indexOf, join, reverse, shift, unshift, concat. `mmvergara`
 
 November 12, 2022
 
