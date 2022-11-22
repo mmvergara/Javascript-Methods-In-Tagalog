@@ -13,6 +13,8 @@ Startedby: Vergara, Mark Matthew <br/>
 
 November 22, 2022
 - Added find,findIndex,findLast,findLastindex,foreach,indexOf and at `mmvergara`
+- Added includes,lastIndexOf,Map and at `mmvergara`
+
 
 November 21, 2022
 
