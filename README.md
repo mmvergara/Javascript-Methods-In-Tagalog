@@ -12,8 +12,9 @@ Startedby: Vergara, Mark Matthew <br/>
 # Updates:
 
 November 22, 2022
-- Added find,findIndex,findLast,findLastindex,foreach,indexOf and at `mmvergara`
-- Added includes,lastIndexOf,Map and at `mmvergara`
+- Added Array Methods find,findIndex,findLast,findLastindex,foreach,indexOf and at `mmvergara`
+- Added Array Methods includes,lastIndexOf,Map and at `mmvergara`
+- Added String Methods charAt, includes, indexOf, lastIndexOf, split, trim, trimEnd, trimStart, and at `mmvergara`
 
 
 November 21, 2022
