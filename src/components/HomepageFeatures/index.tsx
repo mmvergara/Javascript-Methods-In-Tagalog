@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: "Layunin",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: require("@site/static/img/booka.svg").default,
     description: (
       <>
         Ang Proyektong ito ay ginawa para sa mga taong hindi masyadong sanay sa wikang ingles at sa
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "Pangitain",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    Svg: require("@site/static/img/bookb.svg").default,
     description: (
       <>
         Ang isang mahusay na Javascript Developer ay kailangang familiar sa mga javascript methods,
