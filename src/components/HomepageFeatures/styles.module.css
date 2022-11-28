@@ -9,3 +9,10 @@
   height: 200px;
   width: 200px;
 }
+
+.sectionRow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

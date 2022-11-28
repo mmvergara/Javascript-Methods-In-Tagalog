@@ -14,9 +14,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam esse doloribus voluptates et
-        optio temporibus, odio modi porro illo deserunt nesciunt maiores minus tempora consequuntur
-        nemo at facere a reiciendis.
+        Ang Proyektong ito ay ginawa para sa mga taong hindi masyadong sanay sa wikang ingles at sa
+        mga taong gustong makakita ng explanation na nakasulat sa tagalog/taglish.
       </>
     ),
   },
@@ -25,20 +24,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis doloribus possimus nam
-        provident quaerat voluptas nisi ut eius velit veniam saepe fugiat aliquid sint voluptatem
-        veritatis numquam, dolorem voluptatum rerum.
-      </>
-    ),
-  },
-  {
-    title: "lorem",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
-    description: (
-      <>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis doloribus possimus nam
-        provident quaerat voluptas nisi ut eius velit veniam saepe fugiat aliquid sint voluptatem
-        veritatis numquam, dolorem voluptatum rerum.
+        Ang isang mahusay na Javascript Developer ay kailangang familiar sa mga javascript methods,
+        pakay ng app nato na maging madali at maigsi ang pag-pagpapaliwanag sa mga to.
       </>
     ),
   },
@@ -62,7 +49,7 @@ export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className='container'>
-        <div className='row'>
+        <div className={styles.sectionRow}>
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}

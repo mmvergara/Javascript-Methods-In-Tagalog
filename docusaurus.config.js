@@ -66,7 +66,7 @@ const config = {
       },
       footer: {
         style: "dark",
-        copyright: `Copyright © ${new Date().getFullYear()} Javascript Methods in Tagalog, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Javascript Methods in Tagalog, Inc. Built with Docusaurus. <br/> Created by: mmvergara`,
       },
       prism: {
         theme: lightCodeTheme,
